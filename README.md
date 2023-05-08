@@ -5,6 +5,7 @@ Works only for the `Desktop` version of Telegram. Cannot be used for `Android` o
 ### Screenshots
 ![image](https://user-images.githubusercontent.com/118981482/236819322-c8005fb8-0b8c-441c-95c3-b979744d5664.png)
 ![image](https://user-images.githubusercontent.com/118981482/236819338-69802d9d-bc4e-4cab-b368-5cc0473f25db.png)
+![image](https://user-images.githubusercontent.com/118981482/236823745-bb8bcd22-e770-4053-bf36-dc8c750d2a4c.png)
 ![image](https://user-images.githubusercontent.com/118981482/236819359-cc88ac8b-06ad-4356-9d05-95838a005548.png)
 
 ### Installation
