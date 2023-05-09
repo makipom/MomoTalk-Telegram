@@ -1,4 +1,4 @@
-# MomoTalk [Unofficial]
+# MomoTalk 【Unofficial】
 A theme for `Telegram Desktop` made to resemble the `MomoTalk` messaging application from the mobile role-playing game [`Blue Archive`](https://en.wikipedia.org/wiki/Blue_Archive).    
 Works only for the `Desktop` version of `Telegram`. Cannot be used for `Android` or `iOS`, `Web` versions.
 
