@@ -9,10 +9,10 @@
 
 ### インストール方法    
 * 本レポジトリから`momotalk.tdesktop-theme`をダウンロードし、`Telegram`で開けること。
-* この方法だと、自動アップデートが行われず、このテーマはダウンロードした時のまま残ります。
+* この方法だと、自動アップデートが行われず、このテーマはダウンロードした時のままの状態で使うことができます。
 #### OR     
 * テーマ登録のURLを使ってTelegramからインストールすること。URLはこちら → [`MomoTalk【非公式】`](https://t.me/addtheme/momotalk)
-* この方法だと、このレポジトリからダウンロードされなくてもTelegram内で変更の際に自動アップデートが行われます。
+* この方法だと、このレポジトリから毎回ダウンロードしなくてもTelegram内でテーマ変更の際に自動アップデートが行われます。
 
 ### 要件
 * [`Telegram Desktop`](https://hithub.com/telegramdesktop/tdesktop)
