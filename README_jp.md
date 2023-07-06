@@ -1,4 +1,4 @@
-![banner2-1](https://user-images.githubusercontent.com/118981482/237046118-ac4ad0bc-3c06-47e6-b946-dab99c827a3c.png)
+![momobannernew](https://github.com/makipom/MomoTalk-Telegram/assets/118981482/65bffd16-2527-45a3-bfd0-6ca676c7bfab)
 ## [EN](https://github.com/makipom/MomoTalk-Telegram/blob/main/README.md) | 日本語
 # MomoTalk【非公式】
 透き通るような世界観で送る学園RPG[ `「ブルーアーカイブ」` ](https://ja.wikipedia.org/wiki/ブルーアーカイブ)に登場するメッセンジャーアプリ `「モモトーク」` のデザインを`デスクトップ版Telegram`専用テーマとして再現してみました。こちらはその成果です。     
