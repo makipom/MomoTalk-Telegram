@@ -5,7 +5,7 @@ A theme for `Telegram Desktop` made to resemble the `MomoTalk` messaging applica
 Works only for the `Desktop` version of `Telegram`. Cannot be used for `Android` or `iOS`, `Web` versions.
 
 ### Screenshots
-![image](https://user-images.githubusercontent.com/118981482/236991702-41fd9b5e-2a31-4913-a1c1-621fafbd6e26.png)
+![showcase-20230716](https://github.com/makipom/MomoTalk-Telegram/assets/118981482/82ccea3c-a0ca-44a9-8d74-fff2a03b8555)
 
 
 ### Installation
