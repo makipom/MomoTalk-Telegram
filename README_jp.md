@@ -5,7 +5,7 @@
 尚、本テーマが正常に作動できる環境は`デスクトップ版`、即ち`Telegram Desktop`のみ。スマホ版のTelegram（iOS, Android, …）やWeb版のTelegramでは動作しませんのでダウンロードの際にご注意を。    
 
 ### スクリーンショット
-![image](https://user-images.githubusercontent.com/118981482/236991702-41fd9b5e-2a31-4913-a1c1-621fafbd6e26.png) 
+![showcase-20230716](https://github.com/makipom/MomoTalk-Telegram/assets/118981482/82ccea3c-a0ca-44a9-8d74-fff2a03b8555)
 
 ### インストール方法    
 * 本レポジトリから`momotalk.tdesktop-theme`をダウンロードし、`Telegram`で開けること。
