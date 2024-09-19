@@ -2,18 +2,17 @@
 ## EN | [日本語](https://github.com/makipom/MomoTalk-Telegram/blob/main/README_jp.md)
 [![Install](https://github.com/makipom/MomoTalk-Telegram/assets/118981482/fa2253f9-daec-4701-bcd8-e1a1812d1d0c)](https://t.me/addtheme/momotalk)
 # MomoTalk 【Unofficial】
-A theme for `Telegram Desktop` made to resemble the `MomoTalk` messaging application from the mobile role-playing game [`Blue Archive`](https://en.wikipedia.org/wiki/Blue_Archive).    
-Works only for the `Desktop` version of `Telegram`. Cannot be used for `Android` or `iOS`, `Web` versions.
+A theme for `Telegram Desktop` designed to resemble the `MomoTalk` messaging app from the mobile RPG [`Blue Archive`](https://en.wikipedia.org/wiki/Blue_Archive). This theme works only with the `Desktop` version of `Telegram` and is not compatible with the `Android`, `iOS`, or `Web` versions.
 
 ### Screenshots
 ![showcase-20230821](https://github.com/makipom/MomoTalk-Telegram/assets/118981482/900dca4f-41b9-43dc-9dff-ebc544e95fd2)
 
 ### Installation
-* Download the `momotalk.tdesktop-theme` file from this repository and open it through `Telegram Desktop` app;    
-* This way you're in control of your instance of this theme and can have previous versions installed, if you didn't like a particular update but have the file nevertheless.
+* Download the `momotalk.tdesktop-theme` file from this repository and open it with the `Telegram Desktop` app;    
+* This method allows you to control your instance of the theme and keep previous versions if you prefer an older update.
 #### OR
-* Use the direct link to the theme - [`MomoTalk【非公式】`](https://t.me/addtheme/momotalk);
-* This way you'll get automatic updates whenever new version or fixes roll out, without the need to re-download the file from the repository.
+* Alternatively, use the direct link to the theme - [`MomoTalk【非公式】`](https://t.me/addtheme/momotalk);
+* This method provides automatic updates whenever a new version or fixes are released, without needing to re-download the file from the repository.
 
 ### Requirements:
 * [Telegram Desktop](https://github.com/telegramdesktop/tdesktop).
