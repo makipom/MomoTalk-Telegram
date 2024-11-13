@@ -12,7 +12,7 @@
 * 本レポジトリから`momotalk.tdesktop-theme`をダウンロードし、`Telegram`で開いてください。
 * この方法では、自動アップデートが行われず、ダウンロードした時点の状態でテーマを使い続けることができます。
 #### OR     
-* または、テーマ登録のURLを使ってTelegramからインストールしてください。URLはこちら → [`MomoTalk【非公式】`](https://t.me/addtheme/momotalk)
+* または、テーマ登録のURLを使ってTelegramからインストールしてください。URLはこちら → [`MomoTalk【非公式】`](https://t.me/addtheme/momotalk)、 [`MomoTalk（Dark）`](https://t.me/addtheme/momotalk_dark)；
 * この方法では、レポジトリから毎回ダウンロードしなくても、Telegram内でテーマが更新される際に自動アップデートが行われます。
 
 ### 要件
