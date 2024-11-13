@@ -12,7 +12,7 @@
 * 从此存储库下载 `momotalk.tdesktop-theme` 文件，并通过 `Telegram Desktop` 应用程序打开；    
 * 这样，您可以控制此主题的版本，如果不喜欢某个更新但仍然保留文件，可以安装以前的版本。
 #### OR     
-* 使用主题的直接链接 → [`MomoTalk【非公式】`](https://t.me/addtheme/momotalk)
+* 使用主题的直接链接 → [`MomoTalk【非公式】`](https://t.me/addtheme/momotalk)，[`MomoTalk（Dark）`](https://t.me/addtheme/momotalk_dark)；     
 * 这样，您将自动获得新版本或修复程序推出时的更新，而无需从存储库重新下载文件。
 
 ### 要求
