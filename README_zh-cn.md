@@ -1,6 +1,8 @@
 ![momobannernew](https://github.com/makipom/MomoTalk-Telegram/assets/118981482/65bffd16-2527-45a3-bfd0-6ca676c7bfab)
 ## [EN](https://github.com/makipom/MomoTalk-Telegram/blob/main/README.md) | [日本語](https://github.com/makipom/MomoTalk-Telegram/blob/main/README_jp.md) | 中文
-[![install button light 2](https://github.com/user-attachments/assets/700a6685-72da-4e12-b24b-c7250bfba8e9)](https://t.me/addtheme/momotalk) [![install button dark 2](https://github.com/user-attachments/assets/91637d65-fb52-4d7f-949c-99408662f338)](https://t.me/addtheme/momotalk_dark)
+
+[![install button light 4](https://github.com/user-attachments/assets/de5b8460-2791-44e3-8a35-d9b4bd4c9e3d)](https://t.me/addtheme/momotalk) [![install button dark 4](https://github.com/user-attachments/assets/9d1b6131-7428-40a4-b71f-bf4f5157d56e)](https://t.me/addtheme/momotalk_dark)
+
 # MomoTalk【非公式】
 适用于 `Telegram Desktop` 的主题，旨在模仿手机角色扮演游戏[`《碧蓝档案》`](https://bluearchive-cn.com/)中的 `MomoTalk` 消息应用程序。 仅适用于 `Telegram` 的桌面版本，不适用于 `Android`、`iOS` 或 `Web` 版本。
 
