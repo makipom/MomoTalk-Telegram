@@ -6,7 +6,7 @@
 # MomoTalk【非公式】
 透き通るような世界観で送る学園RPG[ `「ブルーアーカイブ」` ](https://ja.wikipedia.org/wiki/ブルーアーカイブ)に登場するメッセンジャーアプリ `「モモトーク」`のデザインを`デスクトップ版Telegram`専用テーマとして再現しました。こちらがその成果です。 なお、本テーマは`デスクトップ版`、つまり`Telegram Desktop`でのみ正常に動作します。スマホ版のTelegram（iOS、Androidなど）やWeb版のTelegramでは動作しませんので、ダウンロードの際はご注意ください。
 
-![iikanji theme darklight 2](https://github.com/user-attachments/assets/fc9280cc-ca97-4961-9d32-f4f0f1434676)
+![iikanji theme darklight 2](https://github.com/user-attachments/assets/111a6b6c-fd06-4548-871a-f67e445874bd)
 
 ### インストール方法    
 * 本レポジトリから`momotalk.tdesktop-theme`をダウンロードし、`Telegram`で開いてください。
