@@ -12,7 +12,7 @@ A theme for `Telegram Desktop` designed to resemble the `MomoTalk` messaging app
 * Download the `momotalk.tdesktop-theme` file from this repository and open it with the `Telegram Desktop` app;    
 * This method allows you to control your instance of the theme and keep previous versions if you prefer an older update.
 #### OR
-* Alternatively, use the direct link to the theme - [`MomoTalk【非公式】`](https://t.me/addtheme/momotalk);
+* Alternatively, use the direct link to the theme - [`MomoTalk【非公式】`](https://t.me/addtheme/momotalk), [`MomoTalk（Dark）`](https://t.me/addtheme/momotalk_dark);
 * This method provides automatic updates whenever a new version or fixes are released, without needing to re-download the file from the repository.
 
 ### Requirements:
