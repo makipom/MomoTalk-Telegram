@@ -6,7 +6,7 @@
 # MomoTalk【非公式】
 适用于 `Telegram Desktop` 的主题，旨在模仿手机角色扮演游戏[`《碧蓝档案》`](https://bluearchive-cn.com/)中的 `MomoTalk` 消息应用程序。 仅适用于 `Telegram` 的桌面版本，不适用于 `Android`、`iOS` 或 `Web` 版本。
 
-![iikanji theme darklight 2](https://github.com/user-attachments/assets/111a6b6c-fd06-4548-871a-f67e445874bd)
+![iikanji theme darklight 2](https://github.com/user-attachments/assets/1c5f5c79-854c-4afd-9f34-aa2e619b544e)
 
 ### 安装   
 * 从此存储库下载 `momotalk.tdesktop-theme` 文件，并通过 `Telegram Desktop` 应用程序打开；    
